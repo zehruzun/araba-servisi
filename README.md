@@ -1,2 +1,2 @@
 # araba-servisi
-JS
+arabanın servis, bakım özelliklerini iç içe sıralayan alıştırma programı
